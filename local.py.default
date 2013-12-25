@@ -1,0 +1,4 @@
+settings = {
+    'email_address': 'youremail@example.com',
+    'password': 'yourpassword'
+}
